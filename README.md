@@ -3,4 +3,4 @@ DDoS tool for educational purposes, only use this on your network or on a networ
 
 Version: 1.0 Pre-Alpha
 
-This tool requires the sockets lib and the random lib, you can get install instructions by simply searching it on google or any search engine!
+This tool requires the socket module, just run this command in terminal or cmd to install sockets, command: 'pip3 install socket' without the quotes!
